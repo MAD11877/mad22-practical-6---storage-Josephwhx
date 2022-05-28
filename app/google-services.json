@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1056423315959",
+    "firebase_url": "https://practical6-loginpage-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "practical6-loginpage",
+    "storage_bucket": "practical6-loginpage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056423315959:android:666acc4498c2c273ca06f2",
+        "android_client_info": {
+          "package_name": "sg.edu.np.mad.practical3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056423315959-0ds04sq3srrv3g7smncqrb6tbuon1l8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTcWuY6dwHP_1k_Og9fGUqM0iV6r0sC6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056423315959-0ds04sq3srrv3g7smncqrb6tbuon1l8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
